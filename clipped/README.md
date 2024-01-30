@@ -28,12 +28,12 @@ This project creates a sine and a clipped version of the sine wave audio file an
    pip install numpy scipy sounddevice
    ```
 
-**Running the code:**
+**Running the Code:**
 
-Running the Code
+2. Navigate to the project directory in your terminal.
 
-1. Navigate to the project directory in your terminal.
+3. Execute the Python script:
 
-2. Execute the Python script:
-
+   ```bash
    python music_ds_a1.py
+   ```
